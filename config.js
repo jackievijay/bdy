@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
+  name: "KANNIGA",
   photo: "./img/irene.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
@@ -55,8 +55,8 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi",
-      subtitle: "I really like your name btw!",
+      title: "Hi Crusheyyy 🧿🫣💖",
+      subtitle: "Wish you a happiest birthday kanshu!🎂",
     },
     {
       type: "countdown",
@@ -70,15 +70,15 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy birthday, love! 🎂🎉 I wish you an incredibly happy year ahead, and may all your dreams come true. ✨💖 You deserve the world, and I am so excited to see you achieve everything you want this year! 🌍🚀🥰!",
       buttonText: "Send",
     },
     {
       type: "ideas",
       lines: [
         "That's what I was going to do.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
+        "Unakku pidikuma nu terla but oru try unakaga.",
+        "So, I wanted to do something <strong>special</strong>.",
         "Because,",
         "You are Special <span>:)</span>",
       ],
@@ -86,8 +86,8 @@ const CONFIG = {
     },
     {
       type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      text: "Happy birthday, love! 🥳 It's been 2 amazing years since our bond started, and I’ve loved being by your side every day since. 💖 I promise to stay with you always, sharing your joys and sorrows and making you happy forever. 🩵𑣲🫂⋆˚࿔ 🎂✨Once again happy birthday di kanshu 🫠🤌🏻💗",
+      author: "From Vijay",
     },
     {
       type: "stars",
@@ -99,8 +99,8 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishTitle: "Happy Birthday KANNIGA!",
+      wishText: "May the vijay's love and care always be with you 😁! ;)",
     },
     {
       type: "fireworks",
@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
+      text: "Okay, ithu epdi irunthuchu nu vanthu sollu crusheyyyy kanshu.",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
