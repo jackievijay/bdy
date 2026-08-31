@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "KANNIGA",
+  name: "TAMIL SELVI",
   photo: "./img/irene.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi Crusheyyy 🧿🫣💖",
-      subtitle: "Wish you a happiest birthday kanshu!🎂",
+      subtitle: "Wish you a happiest birthday Tamileyy!🎂",
     },
     {
       type: "countdown",
@@ -86,7 +86,7 @@ const CONFIG = {
     },
     {
       type: "quote",
-      text: "Happy birthday, love! 🥳 It's been 2 amazing years since our bond started, and I’ve loved being by your side every day since. 💖 I promise to stay with you always, sharing your joys and sorrows and making you happy forever. 🩵𑣲🫂⋆˚࿔ 🎂✨Once again happy birthday di kanshu 🫠🤌🏻💗",
+      text: "Happy birthday, love! 🥳 It's been 2 amazing years since our bond started, and I’ve loved being by your side every day since. 💖 I promise to stay with you always, sharing your joys and sorrows and making you happy forever. 🩵𑣲🫂⋆˚࿔ 🎂✨Once again happy birthday di Tamileyy 🫠🤌🏻💗",
       author: "From Vijay",
     },
     {
@@ -99,7 +99,7 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday KANNIGA!",
+      wishTitle: "Happy Birthday TAMIL!",
       wishText: "May the vijay's love and care always be with you 😁! ;)",
     },
     {
@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, ithu epdi irunthuchu nu vanthu sollu crusheyyyy kanshu.",
+      text: "Okay, ithu epdi irunthuchu nu vanthu sollu crusheyyyy Tamileyy.",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
